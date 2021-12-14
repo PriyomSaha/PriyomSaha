@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyomSaha
-- 👀 I’m interested in WebDevelopment and the Testing of Website
+- 👀 I’m interested in WebDevelopment and bug hunting from website
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me priyom1499@gmail.com
