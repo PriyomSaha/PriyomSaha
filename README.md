@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyomSaha
 - 👀 I’m interested in WebDevelopment and bug hunting from website
-- 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Spring MVC , Spring Boot 
+- 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me priyom1499@gmail.com
 
 <!---
