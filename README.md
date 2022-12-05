@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and bug hunting from website
 - 🌱 I’m currently learning AI in automation
 - 💞️ I’m looking to collaborate on Automation
-- 🎉 Enthusiast in becoming an SDET
+- 🎉 Enthusiast in becoming a SDET
 - 📫 How to reach me priyom1499@gmail.com
 
 <!---
