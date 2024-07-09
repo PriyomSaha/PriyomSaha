@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @PriyomSaha<br>- 👀 I’m interested in Web Development and bug hunting from website<br>- 🌱 I’m currently learning AI in automation<br>- 💞️ I’m looking to collaborate on Automation<br>- 🎉 Enthusiast in becoming a SDET<br>- 📫 How to reach me priyom1499@gmail.com
+👋 Hi, I’m @PriyomSaha<br>👀 I’m interested in Web Development and bug hunting from website<br>🌱 I’m currently learning AI in automation<br>💞️ I’m looking to collaborate on Automation<br>🎉 Enthusiast in becoming a SDET<br>📫 How to reach me priyom1499@gmail.com
 
 
 ## 🌐 Socials:
